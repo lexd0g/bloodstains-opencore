@@ -1913,7 +1913,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25441104QXF8YL1H</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1925,9 +1925,9 @@
 			<key>SystemProductName</key>
 			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>D25NJ0CWF8JC</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>B0BA417E-5A89-4CA4-B013-61626CC502B7</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
